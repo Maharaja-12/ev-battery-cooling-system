@@ -73,6 +73,15 @@ The following parameters can be investigated:
 
 For a fair comparison, the baseline and proposed designs should use the same battery heat generation, ambient temperature, airflow conditions, and simulation duration.
 
+EV-Battery-Cooling-System/
+    ├── README.md
+    └── simulation/
+        └── <img width="1080" height="532" alt="ev_battery_cooling_system" src="https://github.com/user-attachments/assets/988a3b7a-268d-4ea3-b2e7-af754efa1bf9" />
+     |__ detailed view
+     <img width="937" height="1280" alt="ev_" src="https://github.com/user-attachments/assets/6b60ba9a-733e-4e3a-bc52-04da55c5e15e" />
+
+
+
 ## Results and Validation
 The current design represents a thermal management concept.
 
